@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**sophia7809/sophia7809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sophia
+ 
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScrpit
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ### Você entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  00001115842328SP@al.educacao.sp.gov.br
+
+  @sophiasouzxz
+
+ ![](https://media1.tenor.com/m/RVJragI0czkAAAAC/suntanning-sun-rise.gif)
+  
